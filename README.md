@@ -1,4 +1,4 @@
-## Hi there 👋, I am Daniel Andes. 
+## Hi there 👋, I am Daniel Andes
 
 I am an Enterprise Infrastructure and Cloud Solution Architect from Germany. 
 
